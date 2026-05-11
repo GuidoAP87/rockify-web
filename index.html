@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ROCKIFY | El Templo del Rock Nacional</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo-container" onclick="window.location.href='index.html'">
+            <svg class="malvinas-icon" viewBox="0 0 500 350" xmlns="http://www.w3.org/2000/svg">
+                <path d="M130 180 Q 150 150 170 160 T 190 200 T 160 240 T 130 220 Z" /> 
+                <path d="M220 160 Q 250 140 280 150 T 300 200 T 260 250 T 220 230 Z" /> 
+                <path d="M100 100 L 120 120 M 310 250 L 330 270" stroke="currentColor" stroke-width="5" opacity="0.5"/> 
+            </svg>
+            
+            <span class="logo-text">ROCKIFY <span class="arg-flag">ARG</span></span>
+        </div>
+
+        <ul class="nav-links">
+            <li><a href="index.html">INICIO</a></li>
+            <li><a href="#artistas">ARTISTAS</a></li>
+            <li><a href="#contacto">COMUNIDAD</a></li>
+        </ul>
+    </nav>
+
+    <header id="inicio" class="hero">
+        <div id="hero-background" class="hero-background"></div>
+        <div class="hero-overlay"></div>
+
+        <div class="hero-content">
+            <h1 class="titulo-patrio">EL TEMPLO DEL ROCK</h1>
+            <p>Del barro de la cancha al pogo más grande del mundo.</p>
+            
+            <button class="btn-rock" onclick="document.getElementById('artistas').scrollIntoView({behavior: 'smooth'})">
+                <span class="btn-text">ENTRAR AL POGO</span>
+            </button>
+        </div>
+    </header>
+
+    <main id="artistas" class="container">
+        <h2>NUESTRAS BANDAS</h2>
+        <div id="artist-grid" class="grid-layout"></div>
+    </main>
+
+    <div id="vinyl-player" class="vinyl-container hidden">
+    <div class="vinyl-disk" onclick="togglePlayPause()">
+        <img id="vinyl-cover" src="img/default.png" alt="Album Cover" class="vinyl-cover-art">
+        <div class="vinyl-hole"></div>
+    </div>
+    <div class="vinyl-info">
+        <div class="scrolling-text-container">
+            <div class="scrolling-text">
+                <span id="player-song" class="song-title">Canción</span>
+                <span class="separator">•</span>
+                <span id="player-artist" class="artist-name">Artista</span>
+            </div>
+        </div>
+        <div class="player-controls">
+            <i class="fas fa-step-backward control-icon" onclick="playPrev()"></i>
+            <i class="fas fa-pause control-icon" id="play-pause-icon" onclick="togglePlayPause()"></i>
+            <i class="fas fa-step-forward control-icon" onclick="playNext()"></i>
+        </div>
+    </div>
+</div>
+
+    <script src="script.js"></script>
+</body>
+</html>
