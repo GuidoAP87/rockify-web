@@ -9,7 +9,7 @@ reproductor con estética de vinilo.
 ## Cómo está armado
 
 - `index.html` — portada con la grilla de bandas
-- `detalle.html` — ficha del artista y su discografía (`?artistId=`)
+- `detalle.html` — ficha del artista y su discografía (`?id=`)
 - `album.html` — tracklist de un álbum (`?artistId=&albumIndex=`)
 - `script.js` — render de las tres páginas y el reproductor
 - `styles.css` — estilos
