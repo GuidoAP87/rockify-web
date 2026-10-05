@@ -15,6 +15,7 @@ reproductor con estética de vinilo.
 - `styles.css` — estilos
 - `data/artists.json` — la base de datos completa
 - `index.js` — servidor Express que sirve el sitio y expone la API
+- `tools/malvinas.py` — genera `img/malvinas.png`, el icono del logo (necesita Pillow)
 
 El front lee `data/artists.json` directamente, así que el sitio funciona como
 páginas estáticas (es lo que hace GitHub Pages). Si ese archivo no está
