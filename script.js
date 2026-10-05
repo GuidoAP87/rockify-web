@@ -47,18 +47,26 @@ document.addEventListener('DOMContentLoaded', async () => {
 // ======================================================
 //  CONEXIÓN CON EL SERVIDOR
 // ======================================================
+// Primero intenta el JSON estático (así anda en GitHub Pages, sin servidor).
+// Si no está disponible —por ejemplo abriendo el HTML con doble clic—
+// cae al servidor Express local.
+const FUENTES_DE_DATOS = ['data/artists.json', 'http://localhost:3000/api/artists'];
+
 async function fetchArtistsData() {
-    try {
-        // Volvemos a poner la dirección completa del puerto 3000
-        const response = await fetch('http://localhost:3000/api/artists'); 
-        
-        if (!response.ok) throw new Error('Error servidor');
-        artistsData = await response.json();
-        console.log("✅ Datos recibidos:", artistsData);
-    } catch (error) {
-        console.error("❌ Error:", error);
-        artistsData = [];
+    for (const url of FUENTES_DE_DATOS) {
+        try {
+            const response = await fetch(url);
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            artistsData = await response.json();
+            console.log(`✅ Datos recibidos desde ${url}:`, artistsData);
+            return;
+        } catch (error) {
+            console.warn(`⚠️ No pude leer ${url}:`, error.message);
+        }
     }
+
+    console.error('❌ No pude cargar los datos de ninguna fuente.');
+    artistsData = [];
 }
 
 // ======================================================
