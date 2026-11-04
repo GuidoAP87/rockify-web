@@ -70,6 +70,137 @@ async function fetchArtistsData() {
 }
 
 // ======================================================
+//  HISTORIA, CURIOSIDADES Y GALERÍA
+// ======================================================
+function escapar(txt) {
+    const mapa = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
+    return String(txt == null ? '' : txt).replace(/[&<>"']/g, c => mapa[c]);
+}
+
+// Si el artista no tiene galería propia cargada, se arma una con la foto
+// de la banda y las tapas de sus discos. Las que no existan se descartan solas.
+const TOPE_GALERIA = 8;
+
+function armarGaleria(artist) {
+    if (artist.galeria && artist.galeria.length) {
+        return { items: artist.galeria, automatica: false };
+    }
+
+    const items = [];
+    if (artist.image) items.push({ src: artist.image, epigrafe: artist.name });
+    (artist.discography || []).forEach(album => {
+        if (album.cover) items.push({ src: album.cover, epigrafe: `${album.title} (${album.year})` });
+    });
+
+    const unicos = items.filter((g, i, arr) => arr.findIndex(x => x.src === g.src) === i);
+    return { items: unicos.slice(0, TOPE_GALERIA), automatica: true };
+}
+
+function filaFicha(icono, rotulo, valor) {
+    return `<div class="ficha-dato">
+                <i class="fas ${icono}"></i>
+                <span class="ficha-rotulo">${escapar(rotulo)}</span>
+                <span class="ficha-valor">${escapar(valor)}</span>
+            </div>`;
+}
+
+function renderHistoria(artist) {
+    const cont = document.getElementById('historia-seccion');
+    if (!cont) return;
+
+    const hayRelato = artist.historia && artist.historia.length;
+    const hayCuriosidades = artist.curiosidades && artist.curiosidades.length;
+    if (!hayRelato && !hayCuriosidades) { cont.remove(); return; }
+
+    let html = '<h2>LA HISTORIA</h2>';
+
+    const ficha = artist.ficha;
+    if (ficha) {
+        let filas = '';
+        if (ficha.origen)      filas += filaFicha('fa-map-marker-alt', 'Origen', ficha.origen);
+        if (ficha.actividad)   filas += filaFicha('fa-calendar-alt', 'En actividad', ficha.actividad);
+        if (ficha.integrantes) filas += filaFicha('fa-users', 'Integrantes', ficha.integrantes);
+        if (filas) html += `<div class="ficha-datos">${filas}</div>`;
+    }
+
+    if (hayRelato) {
+        html += `<div class="historia-texto">${
+            artist.historia.map(p => `<p>${escapar(p)}</p>`).join('')
+        }</div>`;
+    }
+
+    if (hayCuriosidades) {
+        html += '<h3 class="sub-titulo"><i class="fas fa-bolt"></i> CURIOSIDADES</h3>';
+        html += `<div class="curiosidades-grid">${
+            artist.curiosidades.map(c => `
+                <article class="curiosidad">
+                    <h4>${escapar(c.titulo)}</h4>
+                    <p>${escapar(c.texto)}</p>
+                </article>`).join('')
+        }</div>`;
+    }
+
+    const galeria = armarGaleria(artist);
+    if (galeria.items.length) {
+        html += '<h3 class="sub-titulo"><i class="fas fa-camera"></i> GALERÍA</h3>';
+        html += `<div class="galeria-grid" data-automatica="${galeria.automatica}">${
+            galeria.items.map(g => `
+                <figure class="galeria-item">
+                    <img src="${escapar(g.src)}" alt="${escapar(g.epigrafe)}"
+                         data-epigrafe="${escapar(g.epigrafe)}"
+                         onerror="descartarImagen(this)">
+                    <figcaption>${escapar(g.epigrafe)}</figcaption>
+                </figure>`).join('')
+        }</div>`;
+    }
+
+    cont.innerHTML = html;
+
+    const grilla = cont.querySelector('.galeria-grid');
+    if (grilla) grilla.addEventListener('click', e => {
+        const img = e.target.closest('img');
+        if (img) abrirLightbox(img.getAttribute('src'), img.dataset.epigrafe);
+    });
+}
+
+// Una tapa que falta no deja un hueco: se borra sola. Y si la galería armada
+// automáticamente se queda sin tapas, no vale la pena repetir la foto que ya
+// está arriba, así que desaparece junto con su título.
+function descartarImagen(img) {
+    const figura = img.closest('.galeria-item');
+    const grilla = figura && figura.parentElement;
+    if (figura) figura.remove();
+    if (!grilla) return;
+
+    const minimo = grilla.dataset.automatica === 'true' ? 2 : 1;
+    if (grilla.children.length < minimo) {
+        const titulo = grilla.previousElementSibling;
+        if (titulo && titulo.classList.contains('sub-titulo')) titulo.remove();
+        grilla.remove();
+    }
+}
+
+function abrirLightbox(src, epigrafe) {
+    const caja = document.getElementById('lightbox');
+    if (!caja) return;
+    document.getElementById('lightbox-img').src = src;
+    document.getElementById('lightbox-epigrafe').textContent = epigrafe || '';
+    caja.classList.remove('oculto');
+}
+
+function cerrarLightbox() {
+    const caja = document.getElementById('lightbox');
+    if (caja) caja.classList.add('oculto');
+}
+
+document.addEventListener('click', e => {
+    if (e.target.id === 'lightbox' || e.target.classList.contains('lightbox-cerrar')) cerrarLightbox();
+});
+document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') cerrarLightbox();
+});
+
+// ======================================================
 //  LÓGICA DE RENDERIZADO (Inteligente: Lee Objetos y Textos)
 // ======================================================
 
@@ -150,6 +281,8 @@ function renderDetailPage() {
     document.getElementById('detail-name').textContent = artist.name;
     document.getElementById('detail-bio').textContent = artist.bio;
     document.getElementById('detail-img').src = artist.image;
+
+    renderHistoria(artist);
 
     const discographyContainer = document.getElementById('discography-list');
     discographyContainer.innerHTML = ''; 

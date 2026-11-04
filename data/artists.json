@@ -305,7 +305,32 @@
           "Rock and Roll Star"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde 1972",
+      "integrantes": "Solista. Antes: Sui Generis, La Máquina de Hacer Pájaros y Serú Girán"
+    },
+    "historia": [
+      "Carlos Alberto García Moreno nació en Buenos Aires en 1951 y tenía oído absoluto: podía nombrar cualquier nota sin un instrumento al lado. Entró al conservatorio de muy chico y antes de cumplir veinticinco ya era un fenómeno adolescente con Sui Generis, el dúo que armó con Nito Mestre y que despidió en 1975 con dos funciones del Luna Park.",
+      "Después vinieron La Máquina de Hacer Pájaros y Serú Girán, pero su carrera solista arrancó en 1982, con el país en guerra y la dictadura agonizando: «Yendo de la cama al living» incluye «No bombardeen Buenos Aires», escrita mientras caían bombas en Malvinas. Un año más tarde, grabado en Nueva York, «Clics modernos» le puso sonido a la democracia que venía.",
+      "Los ochenta lo encontraron en la cima con «Piano Bar» y «Parte de la religión». En los noventa inventó el Say No More, una estética del caos que fue arte y también autodestrucción. Sobrevivió a todo y volvió: «Kill Gil», «Random» y, en 2024, «La Lógica del Escorpión»."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Los dinosaurios van a desaparecer",
+        "texto": "En «Clics modernos» metió «Los dinosaurios», una canción sobre los desaparecidos que esquivó la censura hablando en metáforas. Hoy es uno de los himnos de los derechos humanos en Argentina."
+      },
+      {
+        "titulo": "El salto de Mendoza",
+        "texto": "En 2000 se tiró a la pileta desde el noveno piso de un hotel en Mendoza y salió nadando. La imagen dio la vuelta al país y quedó como el símbolo perfecto de su manera de vivir."
+      },
+      {
+        "titulo": "Un himno a su manera",
+        "texto": "Su versión del Himno Nacional en «Filosofía barata y zapatos de goma» desató una polémica enorme: lo acusaron de faltarle el respeto a un símbolo patrio. Él siempre dijo que lo había hecho con amor."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 2,
@@ -459,7 +484,32 @@
           "# (Numeral)"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "1982 – 2014",
+      "integrantes": "Solista. Antes: Soda Stereo"
+    },
+    "historia": [
+      "Gustavo Adrián Cerati nació en Buenos Aires en 1959. Conoció a Zeta Bosio estudiando publicidad en la facultad y de ahí salió Soda Stereo, la banda que volvió masivo al rock en castellano en toda América Latina. Pero Cerati nunca dejó de tener una cabeza propia corriendo en paralelo.",
+      "Su camino solista empezó con «Colores Santos» junto a Daniel Melero y siguió con «Amor Amarillo», aunque fue «Bocanada» (1999) el disco que lo reinventó: sampleos, capas y una elegancia que no se parecía a nada de lo que sonaba en la radio. Después llegaron los «11 Episodios Sinfónicos», «Siempre es hoy» y el regreso a la guitarra eléctrica con «Ahí vamos».",
+      "«Fuerza Natural» (2009) fue su último disco. El 15 de mayo de 2010, al terminar un show en Caracas, sufrió un ACV. Estuvo en coma más de cuatro años y murió el 4 de septiembre de 2014. Dejó una obra que todavía se sigue descubriendo."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "De la publicidad al escenario",
+        "texto": "Antes de vivir de la música estudió y trabajó en publicidad. Esa formación se le nota: pocos músicos argentinos cuidaron tanto las tapas, los videos y la estética general de sus discos."
+      },
+      {
+        "titulo": "Un estudio en su propia casa",
+        "texto": "Buena parte de «Bocanada» la armó solo, con samplers y computadora, después de la separación de Soda. Ese disco le abrió la puerta a toda una generación que empezó a producirse en su propia habitación."
+      },
+      {
+        "titulo": "El viaje final",
+        "texto": "Pensó «Fuerza Natural» como un viaje: buscó un sonido orgánico, con blues y folk, bien lejos de la electrónica de «Bocanada». Sin saberlo, estaba grabando su despedida."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 3,
@@ -661,7 +711,32 @@
           "Rato molesto"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "La Plata, Buenos Aires",
+      "actividad": "1976 – 2001",
+      "integrantes": "Indio Solari, Skay Beilinson, Semilla Bucciarelli, Sergio Dawi y una formación rotativa"
+    },
+    "historia": [
+      "Nacieron en La Plata a mediados de los setenta como una troupe más cercana al happening que a una banda de rock: músicos, actores y artistas plásticos girando alrededor de un personaje inventado, Patricio Rey, que nunca existió. Tocaron años en el under antes de grabar «Gulp!» en 1985.",
+      "«Oktubre» (1986) los convirtió en otra cosa: un disco político, oscuro y perfecto que les multiplicó el público sin que apareciera un solo aviso publicitario. De ahí en adelante el fenómeno creció solo, de boca en boca, hasta llenar estadios enteros sin pasar nunca por la televisión.",
+      "Entre «La mosca y la sopa», «Luzbelito» y «Último bondi a Finisterre» construyeron una mística que no tiene equivalente en el país. Se separaron en 2001 y la relación entre el Indio y Skay quedó rota: ninguno de los dos volvió a tocar con el otro."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Patricio Rey no existía",
+        "texto": "El nombre salía de un personaje imaginario, una especie de mecenas invisible de la banda. Durante años el público preguntó quién era Patricio Rey; la respuesta siempre fue que estaba, pero no se mostraba."
+      },
+      {
+        "titulo": "Las tapas de Rocambole",
+        "texto": "Todo el imaginario visual de la banda —tapas, afiches, el logo— lo hizo Ricardo Cohen, «Rocambole», profesor de bellas artes en La Plata. Sus dibujos se volvieron tan reconocibles como las canciones."
+      },
+      {
+        "titulo": "El pogo más grande del mundo",
+        "texto": "«Ji Ji Ji» terminó generando una costumbre: en el momento exacto del tema, estadios enteros saltan al mismo tiempo. La prensa lo bautizó «el pogo más grande del mundo» y el nombre quedó."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 4,
@@ -851,7 +926,32 @@
           "Preso ventanilla"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "1967 – 2012",
+      "integrantes": "Solista. Antes: Almendra, Pescado Rabioso, Invisible y Spinetta Jade"
+    },
+    "historia": [
+      "Luis Alberto Spinetta tenía diecisiete años cuando armó Almendra y escribió «Muchacha ojos de papel». Desde ese momento y hasta el final fue el músico que elevó la vara: nadie trabajó la poesía, la armonía y la búsqueda con tanta terquedad dentro del rock argentino.",
+      "Después de Almendra vinieron Pescado Rabioso, Invisible y Spinetta Jade, cada uno con un sonido distinto. En el medio grabó «Artaud» (1973), un disco firmado como Pescado Rabioso que en realidad es casi solista, inspirado en el poeta francés Antonin Artaud. Es, para muchos, el mejor disco de la historia del rock argentino.",
+      "Siguió editando durante cuatro décadas sin repetirse nunca: «Kamikaze», «Téster de violencia», «Pelusón of milk», «Pan», «Un mañana». Murió el 8 de febrero de 2012, pocos años después de haber reunido en un mismo escenario a casi todos sus proyectos."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "La tapa que no entraba",
+        "texto": "«Artaud» salió con una tapa de forma irregular, con dos aletas que sobresalían: no entraba en las bateas de las disquerías. Spinetta quería justamente eso, que el disco no se pudiera archivar como uno más."
+      },
+      {
+        "titulo": "Casi cinco horas de despedida",
+        "texto": "En 2009 hizo «Las Bandas Eternas» en Vélez: un show maratónico reuniendo a sus compañeros de Almendra, Pescado Rabioso e Invisible, con invitados como Charly García y Gustavo Cerati. Fue su último gran concierto."
+      },
+      {
+        "titulo": "Lo llamaban El Flaco",
+        "texto": "El apodo lo acompañó toda la vida y terminó siendo una forma de respeto: en el ambiente del rock argentino, decir «el Flaco» sin aclarar nada más alcanza para que todos sepan de quién se habla."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 5,
@@ -1061,7 +1161,32 @@
           "Buenos días Palomar"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "El Palomar, Buenos Aires",
+      "actividad": "1988 – 2009",
+      "integrantes": "Andrés Ciro Martínez, Daniel Buira, Micky Rodríguez, Gustavo Kupinski, Piti Fernández"
+    },
+    "historia": [
+      "Se formaron en El Palomar, en el oeste del conurbano, en 1988. El nombre era una declaración de principios: no venían de ninguna escena cool, venían del barrio. Se hicieron tocando en bares hasta que «Chactuchac» (1992) los puso en el mapa.",
+      "Lo que los separó del resto fue la mezcla: rock y blues cruzados con murga, candombe y percusión de carnaval. «Ay Ay Ay», «3er Arco» y sobre todo «Azul» (1998) los llevaron de los pubs a los estadios, con un público que cantaba cada tema de principio a fin.",
+      "Después de «Civilización» (2007) y de dos décadas de crecimiento constante, se separaron en 2009 con una serie de shows masivos. Ciro siguió con Los Persas y la banda quedó como una de las más queridas de su generación."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Rock con tambores de carnaval",
+        "texto": "Metieron murga y candombe en pleno rock barrial cuando casi nadie lo hacía. Esa percusión terminó siendo su marca registrada y abrió la puerta a muchas bandas que vinieron después."
+      },
+      {
+        "titulo": "Una canción para el Diez",
+        "texto": "«Maradó» es uno de los homenajes a Diego Maradona más cantados del rock argentino, y se volvió un clásico de tribuna mucho más allá de los recitales de la banda."
+      },
+      {
+        "titulo": "Del Palomar a los estadios",
+        "texto": "Empezaron tocando para un puñado de personas en bares del oeste y terminaron despidiéndose ante decenas de miles. Nunca cambiaron de barrio: siguieron contando las mismas historias."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 6,
@@ -1183,7 +1308,32 @@
           "Duérmete niño (En vivo)"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "2001 – 2012",
+      "integrantes": "Cristian «Pity» Álvarez y una formación rotativa"
+    },
+    "historia": [
+      "Intoxicados nació del final de Viejas Locas: Pity Álvarez armó un proyecto nuevo que conservaba el rock barrial de siempre pero se permitía más aire, más melodía y más letra. «¡¡Buen día!!» (2001) salió casi enseguida y funcionó desde el primer día.",
+      "«Otro día en el planeta Tierra» (2005) fue el disco que los volvió masivos, con temas como «Fuego» y «Nunca quise» sonando en todos lados. La banda combinaba estribillos enormes con una crudeza que el público reconocía como propia.",
+      "Después de «El exilio de las especies» la historia se fue apagando y el proyecto terminó cerrando alrededor de 2012. En 2020 se editó «Otra noche en la Luna», un registro en vivo que recuperó esa etapa."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Nació de otra banda",
+        "texto": "Intoxicados arrancó cuando Viejas Locas se disolvió. Buena parte del público pasó de una a la otra sin escalas, y en los recitales convivían canciones de los dos proyectos."
+      },
+      {
+        "titulo": "El tema que los define",
+        "texto": "«Fuego» terminó siendo la canción que mejor los resume: letra simple, estribillo enorme y una melodía que se pega a la primera escuchada."
+      },
+      {
+        "titulo": "Rock barrial con melodía",
+        "texto": "En una escena que privilegiaba la crudeza, Intoxicados se permitió baladas, arreglos acústicos y estribillos pop sin perder al público del rock de barrio."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 7,
@@ -1314,7 +1464,32 @@
           "Pomelo"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Villa Celina, La Matanza",
+      "actividad": "1995 – 2010",
+      "integrantes": "Patricio Fontanet, Eduardo Vázquez, Maximiliano Djerfy, Christian Torrejón, Juan Carbone, Elio Delgado"
+    },
+    "historia": [
+      "Se formaron en Villa Celina, en La Matanza, a mediados de los noventa. Venían del rock barrial más directo y fueron creciendo de a poco con «Sed» (2001) y «Presión» (2003), hasta volverse una de las bandas más convocantes de esa escena.",
+      "El 30 de diciembre de 2004, durante un recital en el local República Cromañón, un incendio provocado por una bengala causó la muerte de 194 personas y dejó cientos de heridos. Es una de las mayores tragedias de la historia argentina reciente y cambió para siempre la manera de hacer recitales en el país.",
+      "La banda siguió tocando y editó «Señales» y «Disco Escultura» en medio del proceso judicial, que terminó con condenas para sus integrantes. Se disolvió en 2010. Su historia no se puede contar sin Cromañón ni sin las familias que todavía reclaman justicia."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Un disco grabado en Obras",
+        "texto": "«Obras 2004 en Directo» registró a la banda en el estadio Obras pocos meses antes de la tragedia, en el punto más alto de su convocatoria."
+      },
+      {
+        "titulo": "Lo que cambió después",
+        "texto": "A partir de Cromañón se endurecieron los controles de habilitación, capacidad y salidas de emergencia en todo el país. La seguridad en los recitales argentinos se divide en un antes y un después."
+      },
+      {
+        "titulo": "La memoria sigue abierta",
+        "texto": "Cada 30 de diciembre se realizan actos en memoria de las víctimas. El santuario frente al local se mantiene desde hace dos décadas por iniciativa de los familiares."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 8,
@@ -1482,7 +1657,32 @@
           "Veinte"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde 2002",
+      "integrantes": "Juan Germán «Piti» Fernández y una banda ampliada con vientos"
+    },
+    "historia": [
+      "Las Pastillas del Abuelo se armaron en Buenos Aires a principios de los 2000 alrededor de Piti Fernández, que venía de tocar en Los Piojos. Desde el arranque plantearon algo distinto dentro del rock barrial: letras larguísimas, cargadas de palabras, que cuentan historias en vez de repetir consignas.",
+      "«Por Colectora» (2005) y el disco homónimo del año siguiente los instalaron rápido. Con «Crisis» (2008) y «Desafíos» (2011) ya llenaban estadios, apoyados en una base de rock, reggae y vientos que se volvió su sello.",
+      "Siguieron editando a lo largo de dos décadas —«El Barrio en sus Puños», «Paradojas», «2020»— sin alejarse nunca del público que los hizo crecer. Sus recitales siguen siendo de los más multitudinarios de la escena."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Letras a toda velocidad",
+        "texto": "Sus canciones son famosas por la cantidad de letra que meten por minuto. El público las canta enteras igual, incluso los temas más largos y trabados."
+      },
+      {
+        "titulo": "Un pasado en Los Piojos",
+        "texto": "Piti Fernández tocó en Los Piojos antes de dedicarse de lleno a Las Pastillas. Las dos bandas comparten raíz barrial, pero la escritura de Piti llevó a su grupo por otro camino."
+      },
+      {
+        "titulo": "Vientos en el rock de barrio",
+        "texto": "Sumar una sección de vientos fija en una banda de rock barrial no era lo habitual. Les dio un color de murga y de ska que los distingue dentro de la escena."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 9,
@@ -1677,7 +1877,32 @@
           "Todos"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Hurlingham, Buenos Aires",
+      "actividad": "Desde 1988",
+      "integrantes": "Ricardo Mollo, Diego Arnedo y Catriel Ciavarella"
+    },
+    "historia": [
+      "Divididos se formó en 1988 con Ricardo Mollo y Diego Arnedo, que venían de tocar en Sumo junto a Luca Prodan. Tras la muerte de Luca armaron un trío que apostó a algo poco habitual: potencia extrema y precisión milimétrica al mismo tiempo.",
+      "«40 dibujos ahí en el piso» y «Acariciando lo áspero» los pusieron en el mapa, pero fue «La era de la boludez» (1993) el disco que los volvió masivos. Ahí aparece la fórmula que los define: riffs pesadísimos cruzados con huayno, chacarera y folklore del norte.",
+      "Siguieron tres décadas como trío, reversionando clásicos del cancionero argentino y editando discos como «Narigón del siglo» y «Amapola del 66». Los llaman «la aplanadora del rock» y el apodo no es ninguna exageración."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Vienen de Sumo",
+        "texto": "Mollo y Arnedo tocaban en Sumo con Luca Prodan. Divididos nació del vacío que quedó cuando Luca murió en 1987, y por eso el trío arrastra algo de esa historia en el sonido."
+      },
+      {
+        "titulo": "Folklore a todo volumen",
+        "texto": "Transformaron huaynos y chacareras en temas de rock pesado sin que suenen a chiste. «El arriero», de Atahualpa Yupanqui, en su versión se volvió un clásico de recital."
+      },
+      {
+        "titulo": "Tres que suenan a orquesta",
+        "texto": "Siendo solo tres músicos consiguen un volumen y una densidad que muchas bandas no logran con el doble de gente. De ahí el apodo de «la aplanadora»."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 10,
@@ -1965,7 +2190,32 @@
           "Capital Afectivo"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Lanús, Buenos Aires",
+      "actividad": "Desde 1991",
+      "integrantes": "Adrián Dárgelos, Diego Tuñón, Mariano Roger, Diego Rodríguez y Gabo Manelli (1991-2008)"
+    },
+    "historia": [
+      "Babasónicos se armó en Lanús a principios de los noventa y cayó en la escena como un cuerpo extraño. «Pasto» (1992) los metió de lleno en la camada que la prensa bautizó «nuevo rock argentino»: bandas jóvenes, ruidosas y con mucha ironía, que no querían parecerse a lo que había antes.",
+      "Durante esa década fueron mutando disco a disco —«Trance Zomba», «Dopádromo», «Miami»— sin quedarse quietos en ningún estilo. El salto llegó con «Jessico» (2001): un disco elegante, sensual y lleno de melodía que los sacó del under y reordenó el tablero del rock argentino.",
+      "De ahí en más encadenaron «Infame», «Anoche» y «Mucho», con hits que sonaron en todos lados sin que la banda dejara de ser rara. Siguen editando: «Romantisísmico», «Discutible» y «Trinchera» muestran que todavía no encontraron un molde donde quedarse."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Letras que no se dejan agarrar",
+        "texto": "Dárgelos escribe en una zona ambigua a propósito: frases que suenan a declaración de amor y a burla al mismo tiempo. Buena parte del encanto de la banda está en que nunca terminás de saber de qué lado está."
+      },
+      {
+        "titulo": "Jessico cambió la escena",
+        "texto": "En 2001, con el país cayéndose a pedazos, sacaron un disco sofisticado y sensual que iba a contramano de todo. Terminó siendo uno de los discos más influyentes del rock argentino de este siglo."
+      },
+      {
+        "titulo": "Un sonido que no se repite",
+        "texto": "Pocas bandas argentinas cambiaron tanto de piel: del ruido noventoso al pop oscuro, del glam a la electrónica. Escuchar «Pasto» y «Trinchera» seguidos parece escuchar a dos grupos distintos."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 11,
@@ -2189,7 +2439,32 @@
           "Del otro lado de la ciudad"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "La Plata, Buenos Aires",
+      "actividad": "Desde los años noventa",
+      "integrantes": "Facundo Soto y banda"
+    },
+    "historia": [
+      "Guasones se formó en La Plata y se crió en la tradición más stoniana del rock argentino: guitarras sucias, estribillos simples y letras directas sobre el amor, la calle y los amigos. Facundo Soto, con su voz rasposa, quedó como la cara de la banda.",
+      "El disco homónimo del año 2000 y «Con la casa en orden» les abrieron la puerta, y «Como animales» y «Toro Rojo» terminaron de instalarlos. Nunca fueron la banda de moda, pero juntaron un público fiel que los siguió durante dos décadas enteras.",
+      "Siguieron sacando discos sin pausa —«Esclavo», «Parque de Depresiones», «Locales Calientes», «Hasta el Final»— y llenando salas grandes. Son el ejemplo perfecto de una banda que creció de abajo y se sostuvo tocando."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Hijos de La Plata",
+        "texto": "La Plata dio una cantidad enorme de bandas al rock argentino, empezando por los Redondos. Guasones es parte de esa tradición: ciudad universitaria, muchos sótanos y mucho lugar para tocar."
+      },
+      {
+        "titulo": "Una carrera sin atajos",
+        "texto": "No tuvieron un disco que los explotara de un día para el otro. Fueron sumando público recital a recital durante años, que es la forma más lenta y más sólida de construir una banda."
+      },
+      {
+        "titulo": "La huella de los Stones",
+        "texto": "El riff sucio, el swing y la actitud vienen en línea directa de los Rolling Stones, igual que en Ratones Paranoicos o Viejas Locas. En Argentina esa escuela tiene nombre propio: rock stoniano."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 12,
@@ -2452,7 +2727,32 @@
           "El tiempo no para (En vivo)"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde 1989",
+      "integrantes": "Juan Subirá, Daniel Suárez, Alberto Verenzuela, Pepe Céspedes, Carlos Martín. Gustavo Cordera (1989-2009)"
+    },
+    "historia": [
+      "La Bersuit arrancó a fines de los ochenta con Gustavo Cordera al frente y una idea clara: el escenario como una fiesta desbordada. Se vestían con pijamas, mezclaban cumbia, murga, reggae y rock, y escribían letras que podían ser una joda y una denuncia en la misma estrofa.",
+      "«Libertinaje» (1998) los hizo explotar. Ahí está «Sr. Cobranza», una versión de Las Manos de Filippi que nombra a políticos con nombre y apellido y que terminó levantada de varios medios. «Hijos del Culo» (2000) y «La Argentinidad al Palo» (2004) los llevaron a su punto más alto.",
+      "Cordera dejó la banda en 2009 y el grupo siguió adelante con Juan Subirá y Daniel Suárez al frente, editando «La Revuelta», «El baile interior» y «La nube rosa». La fiesta cambió de forma pero nunca se apagó del todo."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Tocaban en pijama",
+        "texto": "Durante años salieron al escenario con pijamas y batas. Lo que empezó como un chiste terminó siendo su uniforme y una manera de decir que el recital era una fiesta y no una ceremonia."
+      },
+      {
+        "titulo": "Una canción censurada",
+        "texto": "«Sr. Cobranza» nombraba a funcionarios de la época y fue sacada de varias radios y canales. El escándalo terminó ayudando: el tema se volvió un himno y el disco siguió vendiendo."
+      },
+      {
+        "titulo": "Un disco doble sobre ser argentino",
+        "texto": "«La Argentinidad al Palo» salió partido en dos mitades, «Se es» y «Lo que se es», como un retrato completo de las virtudes y las miserias nacionales. Es uno de los discos más ambiciosos de la banda."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 13,
@@ -2658,7 +2958,32 @@
           "Nada personal (2007)"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "1982 – 1997 (reunión en 2007)",
+      "integrantes": "Gustavo Cerati, Zeta Bosio y Charly Alberti"
+    },
+    "historia": [
+      "Soda Stereo se formó en 1982 con Gustavo Cerati, Zeta Bosio y Charly Alberti. Empezaron haciendo new wave con influencia de The Police y de la movida británica de esos años, y en pocos discos se convirtieron en la primera banda argentina verdaderamente masiva en toda América Latina.",
+      "«Signos» y «Doble Vida» los consolidaron afuera, pero «Canción Animal» (1990) es el disco donde todo se junta: ahí están «De música ligera», «En el séptimo día» y «Un millón de años luz». A partir de ese momento llenaron estadios desde México hasta Chile.",
+      "«Dynamo» y «Sueño Stereo» los llevaron a terrenos más experimentales, hasta que en 1997 anunciaron el final. «El Último Concierto» en River cerró la historia con la frase que todavía se repite: «Gracias totales». Diez años después volvieron para la gira «Me Verás Volver»."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Gracias totales",
+        "texto": "Las últimas palabras de Cerati en el show de despedida de 1997 se convirtieron en una de las frases más repetidas del rock en español. Hoy se usa incluso fuera de la música, como forma de agradecer a lo grande."
+      },
+      {
+        "titulo": "Un recital gratis en la 9 de Julio",
+        "texto": "En diciembre de 1991 cerraron la gira de «Canción Animal» tocando gratis en plena avenida 9 de Julio, frente a una multitud. Fue una de las imágenes que mejor muestra lo masivos que llegaron a ser."
+      },
+      {
+        "titulo": "Abrieron la puerta del continente",
+        "texto": "Antes de Soda, una banda argentina difícilmente llenaba estadios en México, Colombia o Chile. Ellos armaron ese circuito y por ahí pasaron después todas las bandas de rock en español."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 14,
@@ -2769,7 +3094,32 @@
           "Muévete al hablar"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "1978 – 1982 (reunión en 1992)",
+      "integrantes": "Charly García, David Lebón, Pedro Aznar y Oscar Moro"
+    },
+    "historia": [
+      "Serú Girán juntó a cuatro músicos enormes en una sola banda: Charly García, David Lebón, Pedro Aznar —que tenía apenas diecinueve años— y Oscar Moro en batería. El debut de 1978 fue destrozado por la crítica, que los acusó de pretenciosos.",
+      "La revancha llegó rápido. «La Grasa de las Capitales» (1979) se burlaba de los medios y del ambiente, «Bicicleta» (1980) incluyó «Canción de Alicia en el país», una alegoría de la dictadura que pasó bajo el radar de la censura, y «Peperina» (1981) los dejó en la cima.",
+      "Se separaron en 1982, en el final de la dictadura. Una década después se reunieron para «Serú '92» y una serie de shows multitudinarios. Los llamaron «los Beatles argentinos» y, con todo lo exagerado que suena, nadie discutió demasiado el mote."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Un nombre que no quiere decir nada",
+        "texto": "«Serú Girán» viene de un idioma inventado que Charly usaba en las letras. No significa nada en particular, y esa fue justamente la gracia."
+      },
+      {
+        "titulo": "Alicia en la dictadura",
+        "texto": "«Canción de Alicia en el país» habla de un país donde «no cuentes lo que viste en los jardines». Usando el cuento de Lewis Carroll como disfraz, retrató el terror de la dictadura sin nombrarlo."
+      },
+      {
+        "titulo": "Pedro Aznar tenía 19",
+        "texto": "Cuando entró a la banda era casi un adolescente, pero ya tocaba el bajo de una manera que no se parecía a la de nadie. Años después se fue a estudiar y a tocar con Pat Metheny."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 15,
@@ -2965,7 +3315,32 @@
           "Lloran las rosas"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde fines de los noventa",
+      "integrantes": "Nicolás Monges y banda"
+    },
+    "historia": [
+      "La 25 se formó en Buenos Aires a fines de los noventa, dentro de la camada de bandas de rock barrial que llenó el país en la década siguiente. Guitarras directas, letras sobre el barrio y los códigos, y un público que las hizo propias desde el primer momento.",
+      "«La Veinticinco Rock and Roll» (2001) y «Así es el rock and roll» marcaron el tono, y «Con el rock en las venas» terminó de instalarlos. El par de discos «Mundo Perfecto» y «Mundo Imperfecto» mostró a una banda jugando con la idea de las dos caras de lo mismo.",
+      "Siguieron sacando discos y tocando sin pausa durante más de dos décadas, con una base de seguidores de las más fieles de la escena. «El Origen» y «Entre cuervos y chacales» los encuentran todavía en actividad."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Dos discos que son uno",
+        "texto": "«Mundo Perfecto» (2006) y «Mundo Imperfecto» (2008) funcionan como un díptico: la misma idea contada desde los dos lados. Pocas bandas de la escena se animaron a un planteo así."
+      },
+      {
+        "titulo": "Hijos del aguante",
+        "texto": "Pertenecen a la generación de bandas que creció sin radio ni televisión, puramente a fuerza de recitales y de boca en boca. El público las sostuvo cuando los medios no las miraban."
+      },
+      {
+        "titulo": "Mucho vivo",
+        "texto": "Tienen varios discos en vivo en su catálogo, y no es casualidad: lo suyo se entiende mejor en el recital, con la gente cantando arriba de la banda."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 16,
@@ -3210,7 +3585,32 @@
           "Sol"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde 1988",
+      "integrantes": "Germán Daffunchio, Sebastián Schachtel, Gustavo Jove, Facundo Benavídez. Alejandro Sokol (1988-2002)"
+    },
+    "historia": [
+      "Cuando murió Luca Prodan en 1987, Sumo se partió en dos. De un lado salió Divididos; del otro, Las Pelotas, con Germán Daffunchio y Alejandro Sokol. El nombre, provocador a propósito, ya anunciaba que no iban a tomarse nada demasiado en serio.",
+      "«Corderos en la noche» (1991) abrió una discografía larga y pareja: «Máscaras de sal», «Amor seco», «Todo por un polvo». Construyeron un sonido propio, más atmosférico y melódico que el de sus hermanos de Sumo, con canciones que crecen de a poco.",
+      "Sokol se alejó de la banda y murió en 2009. Las Pelotas siguieron adelante con Daffunchio al frente y editaron «Despierta», «Cerca de las nubes» y «Es así», sosteniendo una carrera de más de treinta años sin estridencias."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Las dos mitades de Sumo",
+        "texto": "Divididos y Las Pelotas nacieron del mismo duelo. Durante años el público argentino se dividió entre las dos, aunque muchos simplemente siguieron a las dos a la vez."
+      },
+      {
+        "titulo": "Un nombre para incomodar",
+        "texto": "Ponerle «Las Pelotas» a una banda en los ochenta era buscar problemas con la radio y la televisión. Lo hicieron igual, y el nombre terminó quedando como una marca de carácter."
+      },
+      {
+        "titulo": "Canciones que crecen",
+        "texto": "Su marca es el tema que arranca bajito y se va levantando hasta explotar sobre el final. «Bombachitas rosas» o «Será» funcionan así, y en vivo ese crescendo es lo que arma el recital."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 17,
@@ -3303,7 +3703,32 @@
           "En problemas"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "1988 – 1999 y 2008 – 2011",
+      "integrantes": "Cristian «Pity» Álvarez, Fachi Marín, Sergio «Gato» Nasarre y Nicolás Bereciartúa"
+    },
+    "historia": [
+      "Viejas Locas se formó a fines de los ochenta en Buenos Aires y se volvió una de las bandas emblema del rock stoniano argentino: riffs simples, letras de calle y una actitud que el público del conurbano reconoció como propia desde el principio.",
+      "El disco debut de 1995 y «Hermanos de Sangre» (1997) les dieron un lugar central en la escena, con temas que todavía hoy se cantan enteros. La voz quebrada de Pity Álvarez terminó siendo tan identificable como las canciones.",
+      "Se separaron en 1999 y Pity siguió con Intoxicados. Casi una década después volvieron a juntarse para una serie de shows masivos y editaron «Contra la pared» (2011). Fue la última etapa de la banda."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Una vuelta muy esperada",
+        "texto": "El regreso de 2008, casi diez años después de la separación, convocó multitudes. Para buena parte del público era la primera oportunidad de verlos en vivo."
+      },
+      {
+        "titulo": "La escuela stoniana",
+        "texto": "Junto a Ratones Paranoicos y Guasones son la columna vertebral del rock stoniano argentino: el riff de los Rolling Stones trasladado al barrio y cantado en castellano."
+      },
+      {
+        "titulo": "Dos bandas, un mismo público",
+        "texto": "Cuando Viejas Locas se separó, buena parte de sus seguidores siguió a Pity en Intoxicados. En los recitales de la segunda banda siempre sonaron temas de la primera."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 18,
@@ -3458,7 +3883,32 @@
           "Canción de cuna (Sinfónico)"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde 2009",
+      "integrantes": "Andrés Ciro Martínez, Juan Manuel Gigena Ábalos, Broder Sánchez, Rodrigo Pérez y Martín Delgado"
+    },
+    "historia": [
+      "Cuando Los Piojos se separaron en 2009, Andrés Ciro Martínez no se tomó ningún descanso: armó Los Persas y salió a tocar casi enseguida. «Espejos» (2010) dejó claro que no venía a repetir el pasado sino a seguir la misma línea con otra banda.",
+      "«27» (2012) y «Naranja Persa» (2016) ampliaron el repertorio y la convocatoria. Los recitales combinan temas nuevos con clásicos de Los Piojos, algo que el público agradeció desde el primer día y que mantiene viva toda la historia.",
+      "En 2019 llenaron el estadio de River, uno de los puntos más altos de su carrera, y lo registraron en disco. Siguieron con «Guerreras» y «Sueños», sosteniendo una de las convocatorias más grandes del rock argentino actual."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "La armónica como firma",
+        "texto": "Ciro toca la armónica en buena parte de los temas, algo que ya venía de Los Piojos. Ese sonido, cruzado con el blues y la murga, es una de las marcas que lo identifican."
+      },
+      {
+        "titulo": "Dos bandas en un mismo show",
+        "texto": "En sus recitales conviven las canciones de Los Persas con los clásicos de Los Piojos. En la práctica, el público va a escuchar treinta años de historia en una sola noche."
+      },
+      {
+        "titulo": "De la separación a River",
+        "texto": "Pasaron apenas diez años entre el final de Los Piojos y el estadio de River lleno con la banda nueva. Pocas veces un proyecto posterior alcanzó semejante escala tan rápido."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 19,
@@ -3705,7 +4155,32 @@
           "Voy a volver"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde 1981",
+      "integrantes": "Solista. Antes: Los Abuelos de la Nada y Los Rodríguez"
+    },
+    "historia": [
+      "Andrés Calamaro empezó muy joven, tocando los teclados en Los Abuelos de la Nada, donde además escribió «Mil horas». En paralelo editó sus primeros discos solistas en los ochenta, con un pop ligero que poco anticipaba lo que vendría después.",
+      "A fines de los ochenta se fue a España y armó Los Rodríguez, una banda que se volvió enorme allá y que terminó de formarlo como autor. Cuando volvió a lo solista en 1997 con «Alta Suciedad», ya era otro: más áspero, más tanguero y mucho más prolífico.",
+      "Entre «Honestidad Brutal» y «El Salmón» entró en una etapa de producción desbordada, grabando a un ritmo imposible. Después llegaron «El Cantante», «La lengua popular» y «Bohemio», que lo devolvieron a un lugar más sereno sin perder el filo."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Un disco de cinco discos",
+        "texto": "«El Salmón» (2000) salió como una caja de cinco CD con más de cien canciones. Es uno de los lanzamientos más desmesurados de la historia del rock en español, y el título dice todo: nadar contra la corriente."
+      },
+      {
+        "titulo": "Mil horas es suya",
+        "texto": "Escribió «Mil horas» cuando tocaba en Los Abuelos de la Nada. El tema quedó asociado para siempre a Miguel Abuelo, pero la autoría es de Calamaro."
+      },
+      {
+        "titulo": "Un argentino en España",
+        "texto": "Con Los Rodríguez se volvió una figura central del rock español de los noventa. «Sin documentos» es un himno a los dos lados del Atlántico."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 20,
@@ -3988,7 +4463,32 @@
           "Los años salvajes"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Rosario, Santa Fe",
+      "actividad": "Desde 1982",
+      "integrantes": "Solista"
+    },
+    "historia": [
+      "Fito Páez llegó a Buenos Aires desde Rosario siendo muy chico, tocando en la banda de Juan Carlos Baglietto y después junto a Charly García. Su primer disco propio, «Del 63», salió en 1984, y «Giros» lo instaló enseguida como un autor con voz propia.",
+      "En 1986 su abuela y su tía abuela fueron asesinadas en la casa familiar de Rosario. De ese dolor salió «Ciudad de pobres corazones» (1987), uno de los discos más oscuros y desgarrados del rock argentino.",
+      "«El amor después del amor» (1992) dio vuelta todo: se convirtió en el disco más vendido de la historia del rock argentino y lo volvió un artista popular en el sentido más amplio. Siguió grabando, escribiendo y dirigiendo cine durante cuatro décadas."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "El disco más vendido del rock argentino",
+        "texto": "«El amor después del amor» vendió una cantidad de copias que ningún otro disco de rock nacional alcanzó. En 2023 Netflix estrenó una serie basada en esa historia."
+      },
+      {
+        "titulo": "Un disco nacido de una tragedia",
+        "texto": "«Ciudad de pobres corazones» se grabó al año siguiente del asesinato de su abuela y su tía abuela. Es un disco de furia pura y se escucha como tal, de principio a fin."
+      },
+      {
+        "titulo": "También dirige películas",
+        "texto": "Además de la música, Fito escribió y dirigió varias películas. Esa cabeza de narrador se le nota en las letras: muchas de sus canciones son directamente historias con personajes."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 21,
@@ -4193,7 +4693,32 @@
           "Lejos de los ojos"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Montevideo, Uruguay",
+      "actividad": "Desde 1995",
+      "integrantes": "Sebastián «Cebolla» Teysera, Sebastián Cebreiro, Nicolás Lieutier, Rafael Di Bello, Carlos Quijano, Alejandro Piccone y Santiago Butler"
+    },
+    "historia": [
+      "La Vela Puerca es uruguaya: se formó en Montevideo en 1995. Lo que empezó como una banda de amigos terminó siendo uno de los grupos más convocantes del Río de la Plata, con un público argentino tan grande como el de su país.",
+      "«Deskarado» (1998) y sobre todo «De bichos y flores» (2001) los hicieron cruzar el charco. La fórmula era clara: rock con vientos, mucho ska y murga, dos voces que se turnan y letras que hablan de amistad, bronca y desencanto sin ponerse solemnes.",
+      "«A contraluz», «El impulso» y «Piel y hueso» los consolidaron como banda de estadios a los dos lados del río. Siguen en actividad, con «Destilar» y «Discopático» como sus discos más recientes."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Son de Montevideo",
+        "texto": "Aunque muchos los dan por argentinos, La Vela Puerca es uruguaya. Forman parte de una escena rioplatense donde las bandas de los dos países comparten público, escenarios y festivales."
+      },
+      {
+        "titulo": "Dos cantantes, no uno",
+        "texto": "Cebolla Teysera y Sebastián Cebreiro se reparten las voces. Esa alternancia, poco común en el rock de la región, les da un juego de contrastes que define su sonido."
+      },
+      {
+        "titulo": "Vientos al frente",
+        "texto": "La sección de vientos no es un adorno: está adelante en casi todos los temas. De ahí el cruce con el ska y la murga que los hace inconfundibles."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 22,
@@ -4295,7 +4820,32 @@
           "Alma de diamante"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "1967 – 1968 y 1981 – 1988",
+      "integrantes": "Miguel Abuelo, Andrés Calamaro, Cachorro López, Gustavo Bazterrica, Daniel Melingo y Polo Corbella"
+    },
+    "historia": [
+      "Los Abuelos de la Nada tuvieron dos vidas. La primera fue a fines de los sesenta, fundada por Miguel Abuelo en los albores del rock argentino. Duró poco y Miguel terminó yéndose a Europa durante más de una década.",
+      "La segunda llegó en 1981, cuando volvió al país y rearmó la banda con una formación impresionante: Andrés Calamaro en teclados, Cachorro López en bajo, Gustavo Bazterrica y Daniel Melingo. En plena transición a la democracia se convirtieron en la banda más popular del país.",
+      "«Mil horas», «Himno de mi corazón», «Costumbres argentinas» y «Chalamán» sonaban en todos lados. Miguel Abuelo murió en 1988 y la historia se cerró ahí, pero esos discos quedaron como el retrato sonoro de la primavera democrática."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Una banda, dos épocas",
+        "texto": "Entre la primera y la segunda formación pasaron más de diez años y casi ningún músico en común. Lo único que une a las dos versiones es Miguel Abuelo."
+      },
+      {
+        "titulo": "Por ahí pasó medio rock argentino",
+        "texto": "Calamaro, Melingo y Cachorro López armaron después carreras enormes por separado. Los Abuelos funcionaron como una escuela de la que salieron varios de los nombres grandes de las décadas siguientes."
+      },
+      {
+        "titulo": "La banda sonora de la vuelta a la democracia",
+        "texto": "Su momento de mayor popularidad coincidió exactamente con el final de la dictadura. Esas canciones alegres y despreocupadas son, para muchos, el sonido de 1983."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 23,
@@ -4475,7 +5025,32 @@
           "Satélite"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde los años noventa",
+      "integrantes": "Manuel Quieto y banda"
+    },
+    "historia": [
+      "Mancha de Rolando se formó en el conurbano bonaerense a mediados de los noventa alrededor de Manuel Quieto. Desde el arranque mezclaron rock con reggae y ska, buscando un sonido más luminoso que el de buena parte de la escena barrial de esos años.",
+      "«Cabaña Diabólica» (1998) y «Animal Humano» (2000) los pusieron en circulación, pero fue con «Juego de locos» y «Viaje» que llegaron a un público grande. «Arde la ciudad» terminó siendo el tema que todo el mundo les reconoce.",
+      "Siguieron adelante con «Espíritu», «A cielo abierto» y «Los Libres», manteniendo una carrera sostenida y un público fiel. «La Revolución de la Alegría» (2020) es su edición más reciente."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Reggae en el conurbano",
+        "texto": "Cuando la escena barrial tiraba para el rock stoniano, ellos metieron reggae y ska. Esa mezcla les dio un lugar propio dentro de un circuito bastante parejo."
+      },
+      {
+        "titulo": "Un tema que los definió",
+        "texto": "«Arde la ciudad» es de esas canciones que se vuelven más conocidas que la banda. Todavía hoy es lo primero que suena cuando alguien los nombra."
+      },
+      {
+        "titulo": "Carrera larga y pareja",
+        "texto": "Más de dos décadas editando discos sin grandes saltos ni grandes caídas. Es el tipo de banda que se sostiene tocando, disco a disco, sin depender de un hit."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 24,
@@ -4686,7 +5261,32 @@
           "En bicicleta"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Mataderos, Buenos Aires",
+      "actividad": "Desde 1988",
+      "integrantes": "Gustavo «Chizzo» Nápoli, Gabriel «Tete» Iglesias, Jorge «Tanque» Iglesias, Manu Varela y Gabriel «Chiflo» Sánchez"
+    },
+    "historia": [
+      "La Renga nació en Mataderos en 1988 y desde el primer día hizo todo a su manera: sin compañía grande, sin publicidad, sin notas en televisión. Grabaron «Esquivando charcos» (1991) de manera independiente y lo vendieron ellos mismos en los recitales.",
+      "«A donde me lleva la vida» y «Despedazado por mil partes» los convirtieron en un fenómeno que creció sin ayuda de nadie. Su público, «Los Mismos de Siempre», los siguió por todo el país y llenó cada lugar donde tocaron.",
+      "«La esquina del infinito», «Detonador de sueños» y «Truenotierra» los encontraron tocando ante multitudes en autódromos y descampados, lejos de los estadios tradicionales. Siguen activos y siguen sin cambiar las reglas: «Alejado de la red» es de 2022."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Autogestión de verdad",
+        "texto": "Manejan su propio sello, su propia producción y sus propios recitales. En una industria donde casi todos firman con una multinacional, La Renga construyó una carrera enorme sin hacerlo."
+      },
+      {
+        "titulo": "Recitales en descampados",
+        "texto": "Cuando los estadios les quedaron chicos, empezaron a tocar en autódromos y predios al aire libre. Son de las pocas bandas argentinas capaces de llenar un lugar así por sí solas."
+      },
+      {
+        "titulo": "Los Mismos de Siempre",
+        "texto": "Así llaman a su público, y no es una frase de marketing: es gente que viaja cientos de kilómetros para verlos. Esa relación es la que sostuvo a la banda durante más de treinta años."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 25,
@@ -4883,7 +5483,32 @@
           "Babilonia"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Villa Devoto, Buenos Aires",
+      "actividad": "Desde 1984",
+      "integrantes": "Juanse, Pablo «Sarcófago» Memi, Pablo Cano y Roy Quiroga"
+    },
+    "historia": [
+      "Los Ratones Paranoicos se formaron en Villa Devoto a mediados de los ochenta y son, directamente, los que trajeron a los Rolling Stones al rock argentino. Juanse adoptó la pose, el fraseo y la actitud de Mick Jagger y los tradujo al castellano porteño.",
+      "El debut de 1986 y «Los chicos quieren rock» armaron la base, pero con «Fieras lunáticas» y «Hecho en Memphis» (1993) llegaron al gran público. Ese último disco fue producido por Andrew Loog Oldham, el mánager histórico de los propios Rolling Stones.",
+      "A lo largo de los noventa se volvieron una banda de estadios, grabaron un MTV Unplugged y siguieron editando hasta el disco homónimo de 2009. Fundaron una escuela que después siguieron Viejas Locas, Guasones y buena parte del rock barrial."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Los produjo el mánager de los Stones",
+        "texto": "Andrew Loog Oldham, que descubrió y manejó a los Rolling Stones en los sesenta, produjo «Hecho en Memphis». Difícil imaginar una validación más directa para una banda stoniana."
+      },
+      {
+        "titulo": "Teloneros de sus ídolos",
+        "texto": "Cuando los Rolling Stones tocaron en River, los Ratones abrieron los shows. Para una banda que construyó todo a partir de ellos, fue el cierre perfecto del círculo."
+      },
+      {
+        "titulo": "El origen de una escuela",
+        "texto": "Antes de los Ratones el rock argentino casi no tenía bandas stonianas. Después de ellos, se volvió uno de los géneros más poblados de la escena nacional."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 26,
@@ -5092,7 +5717,32 @@
           "Desierto"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "La Plata, Buenos Aires",
+      "actividad": "Desde 1993",
+      "integrantes": "Manuel Moretti, Pali Silvera, Ignacio Ferreyra y Juan Manuel Angelini"
+    },
+    "historia": [
+      "Estelares se formó en La Plata a principios de los noventa alrededor de Manuel Moretti, que venía de otros proyectos de la ciudad. Desde el principio apostaron a algo distinto: canciones melancólicas, melódicas, con letras que parecen poemas más que estribillos.",
+      "«Extraño lugar» y «Amantes suicidas» circularon en un ámbito reducido, hasta que «Ardimos» (2003) y «Sistema nervioso central» (2006) los llevaron a un público mucho más amplio. Esa segunda etapa es la que la mayoría conoce.",
+      "Siguieron con «Una temporada en el amor», «El costado izquierdo», «Las antenas» y «Un mar de soles rojos», sosteniendo un tono propio dentro del rock argentino: nadie suena como ellos, ni lo intenta demasiado."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Diez años para explotar",
+        "texto": "Entre su primer disco y el reconocimiento masivo pasó casi una década. Es de los casos más claros de banda que encontró a su público mucho después de haber encontrado su sonido."
+      },
+      {
+        "titulo": "Letras de poeta",
+        "texto": "Moretti escribe más cerca de la poesía que de la canción de rock. Sus letras se citan, se tatúan y se mandan por mensaje, que es una forma bastante exacta de medir el impacto."
+      },
+      {
+        "titulo": "Otra vez La Plata",
+        "texto": "Redondos, Guasones, Estelares: La Plata produjo una cantidad desproporcionada de bandas importantes para el tamaño de la ciudad. Algo tiene esa escena universitaria."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 27,
@@ -5239,7 +5889,32 @@
           "Almas de la noche"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde 1995",
+      "integrantes": "Eduardo Schmidt, Hernán Bruckner, Sebastián Bianchini y Pablo Romero"
+    },
+    "historia": [
+      "Pocas bandas del rock argentino son tan difíciles de clasificar como Árbol. Se formaron a mediados de los noventa y desde el principio se negaron a elegir un género: en un mismo disco conviven punk, folklore, pop, murga y hasta algo parecido al jazz.",
+      "El debut de 1999 y «Chapusongs» mostraron esa mezcla, pero fue «Guau!» (2004) el que los hizo conocidos para el gran público. El humor siempre estuvo adelante, tanto en las letras como en los videos, aunque nunca al punto de volverlos una banda de chiste.",
+      "«Hormigas» y «No me etiquetes» siguieron por el mismo camino, y el título del segundo funciona casi como declaración de principios. Después de un largo silencio volvieron en 2022 con «Hongo»."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "No me etiquetes",
+        "texto": "Le pusieron ese nombre a un disco entero y no es casual: nunca aceptaron que los encasillaran en un género. Esa indefinición les costó espacio en la radio y les ganó un público muy fiel."
+      },
+      {
+        "titulo": "Humor en serio",
+        "texto": "Usan el humor como herramienta, no como refugio. Detrás de los videos delirantes y los títulos absurdos hay arreglos complejos y una banda que toca muy bien."
+      },
+      {
+        "titulo": "Folklore donde menos se espera",
+        "texto": "Meten chacareras y aires de folklore en medio de temas punk. Esa combinación, que en el papel suena imposible, es exactamente lo que los hace reconocibles."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 28,
@@ -5372,7 +6047,32 @@
           "El que la seca la llena"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde 2004",
+      "integrantes": "Indio Solari al frente de una banda numerosa con vientos y coros"
+    },
+    "historia": [
+      "Después del final de Patricio Rey, el Indio Solari armó Los Fundamentalistas del Aire Acondicionado: una banda grande, con vientos y coros, pensada para sostener en vivo un repertorio nuevo sin apoyarse en el pasado.",
+      "«El tesoro de los inocentes» (2004) y «Porco Rex» (2007) mostraron a un autor que seguía escribiendo igual de cifrado y filoso que siempre. Sus recitales, que el público llama «misas», convocaron multitudes que viajaban desde todo el país a ciudades del interior.",
+      "«El perfume de la tempestad», «Pajaritos, bravos muchachitos» y «El ruiseñor, el amor y la muerte» completan una discografía que sostiene la mística intacta. En 2017 el Indio hizo público que convive con la enfermedad de Parkinson y desde entonces dejó de hacer shows masivos."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Un nombre deliberadamente absurdo",
+        "texto": "«Los Fundamentalistas del Aire Acondicionado» es demasiado largo para cualquier marquesina y esa parece ser la idea. El público simplemente dice «el Indio» y alcanza."
+      },
+      {
+        "titulo": "Las misas",
+        "texto": "A sus recitales se les dice misas, y el nombre no es exagerado: ciudades enteras del interior se llenaban de gente que viajaba un día entero para estar ahí."
+      },
+      {
+        "titulo": "Sin televisión, otra vez",
+        "texto": "Igual que en la época de los Redondos, el Indio mantuvo la regla de no dar notas en televisión ni hacer publicidad. Toda la convocatoria funcionó de boca en boca."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 29,
@@ -5518,7 +6218,32 @@
           "Voy dejando atrás"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde 1995",
+      "integrantes": "Joaquín Levinton y banda"
+    },
+    "historia": [
+      "Turf apareció a fines de los noventa con algo que al rock argentino le faltaba en ese momento: liviandad. Mientras la escena tiraba para el rock barrial, ellos hacían pop-rock con guitarras, estribillos pegadizos y mucha influencia del britpop inglés.",
+      "«Una pila de vida» (1997) y «Siempre libre» les dieron rotación, y «Turfshow» (2001) terminó de instalarlos con temas que sonaron en todas las radios. Joaquín Levinton, con su humor y su personaje, se volvió una figura conocida más allá de la música.",
+      "La banda se tomó un parate largo después de «Para mí, para vos» y volvió años más tarde con «Odisea» (2017) y «Renacimiento» (2023), reencontrándose con un público que había crecido escuchándolos."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Britpop en castellano",
+        "texto": "Cuando casi nadie miraba a Inglaterra, Turf trajo el sonido de Blur y Oasis al rock argentino. Esa apuesta los dejó bastante solos en su momento y bastante bien parados con el tiempo."
+      },
+      {
+        "titulo": "Canciones de título largo",
+        "texto": "«Yo no me quiero casar, ¿y usted?» es un título que ya cuenta la canción entera. Ese tipo de humor, entre inocente y cínico, es parte del sello de la banda."
+      },
+      {
+        "titulo": "Levinton, personaje",
+        "texto": "El cantante se volvió una figura mediática con vida propia, entre la música y la televisión. Para bien o para mal, eso mantuvo a Turf en la conversación incluso durante los años sin discos."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 30,
@@ -5676,7 +6401,32 @@
           "La estampa del buen pastor"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "La Plata, Buenos Aires",
+      "actividad": "Desde 2001",
+      "integrantes": "Skay Beilinson con Los Seguidores de la Diosa Kali"
+    },
+    "historia": [
+      "Durante veinticinco años Skay Beilinson fue la guitarra de Patricio Rey: ese sonido limpio, reverberante y melódico que sostiene cada clásico de los Redondos salió de sus manos. Cuando la banda terminó en 2001, armó su propio proyecto.",
+      "«A través del mar de los sargazos» (2002) lo mostró cantando sus propias canciones por primera vez, algo que nunca había hecho. El resultado fue un disco más introspectivo y psicodélico que lo que el público esperaba.",
+      "Desde entonces editó con una regularidad notable —«Talismán», «La marca de Caín», «La luna hueca», «El engranaje de cristal», «Espejismos»— construyendo una obra propia que ya no depende de su historia anterior."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Una guitarra reconocible al instante",
+        "texto": "Su sonido es tan particular que bastan dos compases para saber que es él. Esa marca personal es buena parte de lo que hizo únicos a los Redondos."
+      },
+      {
+        "titulo": "Empezó a cantar a los cincuenta",
+        "texto": "En Patricio Rey nunca cantó: esa era tarea del Indio. Recién con su proyecto solista se puso al frente del micrófono, después de toda una vida tocando."
+      },
+      {
+        "titulo": "Una historia que quedó abierta",
+        "texto": "Tras la separación de 2001, él y el Indio Solari nunca volvieron a tocar juntos. Es una de las separaciones más comentadas del rock argentino."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 31,
@@ -5743,7 +6493,32 @@
           "Las habladurías del mundo"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "1971 – 1973",
+      "integrantes": "Luis Alberto Spinetta, Black Amaya, Carlos Cutaia, David Lebón y Osvaldo «Bocón» Frascino"
+    },
+    "historia": [
+      "Pescado Rabioso fue el proyecto con el que Spinetta se sacó de encima la delicadeza de Almendra. Era rock pesado, eléctrico y a veces directamente brutal, armado para sonar fuerte y sacudir a un público que lo esperaba haciendo canciones suaves.",
+      "«Desatormentándonos» (1972) abrió el camino y «Pescado 2» (1973), un disco doble, llevó la idea al extremo. Por la banda pasó David Lebón, que después tendría su propia carrera enorme y sería parte de Serú Girán.",
+      "La banda se disolvió en 1973, pero el contrato obligaba a entregar un disco más. Spinetta lo grabó casi solo y lo firmó igual como Pescado Rabioso: ese disco es «Artaud», considerado por muchos el mejor de la historia del rock argentino."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Artaud es y no es de Pescado",
+        "texto": "Salió con el nombre de la banda pero el grupo ya estaba disuelto y Spinetta lo grabó prácticamente solo. Por eso figura en las dos discografías a la vez."
+      },
+      {
+        "titulo": "El giro eléctrico",
+        "texto": "Después de la sutileza de Almendra, Pescado fue un cachetazo: distorsión, volumen y furia. Spinetta hizo eso varias veces en su carrera, cambiar de piel justo cuando el público se acomodaba."
+      },
+      {
+        "titulo": "Por acá pasó David Lebón",
+        "texto": "Antes de Serú Girán y de su carrera solista, Lebón tocó en Pescado Rabioso. El rock argentino de los setenta es, en buena medida, la historia de los mismos músicos cruzándose en bandas distintas."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 32,
@@ -5861,7 +6636,32 @@
           "Telepáticamente (En vivo)"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "1972 – 1975 (reunión en 2000)",
+      "integrantes": "Charly García y Nito Mestre"
+    },
+    "historia": [
+      "Sui Generis fue el primer fenómeno adolescente del rock argentino. Charly García y Nito Mestre, con dos guitarras acústicas y canciones sobre el colegio, la muerte y el primer amor, conectaron con una generación entera a partir de «Vida» (1972).",
+      "«Confesiones de invierno» (1973) los volvió masivos y «Pequeñas anécdotas sobre las instituciones» (1974) los metió en problemas: la censura de la época obligó a sacar y reemplazar varios temas antes de que el disco pudiera editarse.",
+      "Se despidieron en septiembre de 1975 con dos funciones del Luna Park a sala llena, filmadas y editadas como «Adiós Sui Géneris». Charly tenía 23 años y toda su carrera por delante. Volvieron brevemente en el año 2000."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Un disco mutilado por la censura",
+        "texto": "De «Pequeñas anécdotas sobre las instituciones» tuvieron que sacar canciones enteras por orden de la censura. Los temas originales circularon durante años de manera clandestina."
+      },
+      {
+        "titulo": "El adiós del Luna Park",
+        "texto": "Las dos funciones de despedida de 1975 llenaron el Luna Park y quedaron filmadas. Fue uno de los primeros recitales verdaderamente multitudinarios del rock argentino."
+      },
+      {
+        "titulo": "Canciones de un chico de veinte",
+        "texto": "«Canción para mi muerte» la escribió Charly siendo casi un adolescente. Esa precocidad para escribir sobre temas grandes marcó todo lo que vino después."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 33,
@@ -6047,7 +6847,32 @@
           "Max"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde los años noventa",
+      "integrantes": "Formación de rock barrial con base de guitarras"
+    },
+    "historia": [
+      "Pier se formó en el conurbano bonaerense en los noventa y se ganó un lugar en el circuito del rock barrial a fuerza de recitales. Su propuesta es directa: guitarras al frente, estribillos para cantar en patota y letras sobre la calle y la pertenencia.",
+      "«La Codiciada» (1999) y «El Fuego Sagrado» (2000) marcaron el arranque, y «Gladiadores del Rock» terminó de darles identidad. El nombre de ese disco describe bastante bien el lugar que buscaban ocupar dentro de la escena.",
+      "Siguieron con «Seguir Latiendo», «Popular Mística» y «Brindaremos», sosteniendo una carrera larga con un público propio. «La emoción de la oveja negra» (2018) es su edición más reciente."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Títulos de batalla",
+        "texto": "«Gladiadores del Rock», «El Fuego Sagrado», «La emoción de la oveja negra»: los nombres de sus discos arman por sí solos una épica, que es exactamente el clima que buscan en vivo."
+      },
+      {
+        "titulo": "Hechos en el recital",
+        "texto": "Como casi todas las bandas de su camada, crecieron tocando y no sonando en la radio. El disco funcionaba como souvenir del show, no al revés."
+      },
+      {
+        "titulo": "Dos discos en vivo",
+        "texto": "«Alucinados como la primera vez» y «Desde las sombras» registran lo que mejor hacen. En esta escena, el disco en vivo no es un trámite: es la foto real de la banda."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 34,
@@ -6280,7 +7105,32 @@
           "Campanas en la noche (Versión 2022)"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde 1994",
+      "integrantes": "Walter Piancioli, Raúl Ruffino, Federico Bugallo y Pablo Tévez"
+    },
+    "historia": [
+      "Los Tipitos se formaron a mediados de los noventa y pasaron casi una década girando por el país antes de que el gran público los descubriera. Su mezcla de rock, pop y melodía los dejó siempre un poco fuera de las categorías de la escena.",
+      "«Armando Camaleón» (2004) fue el disco que cambió todo, con «Silencio» convertido en un éxito enorme que se escuchó en todos lados. De golpe, una banda que llevaba diez años tocando se volvió conocida para todo el país.",
+      "Siguieron adelante con «Tan Real», «El Club de los Martes», «Push» y «Ojos Tremendos», manteniendo la misma formación y una carrera de más de veinticinco años sin interrupciones."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Diez años hasta el hit",
+        "texto": "Entre su primera grabación de 1996 y el éxito de «Silencio» pasó casi una década de tocar en todos lados. Es el ejemplo clásico de un «éxito repentino» que tardó diez años."
+      },
+      {
+        "titulo": "Siempre los mismos cuatro",
+        "texto": "Mantuvieron la formación original durante toda su carrera, algo muy poco frecuente. Esa estabilidad explica buena parte de la solidez de su sonido en vivo."
+      },
+      {
+        "titulo": "Difíciles de encasillar",
+        "texto": "No son rock barrial ni pop puro ni indie. Esa posición intermedia les costó encontrar su lugar al principio y después les permitió llegar a públicos muy distintos."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 35,
@@ -6425,7 +7275,32 @@
           "Hijo del oeste (En vivo)"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde 1999",
+      "integrantes": "Formación de rock stoniano con base de guitarras"
+    },
+    "historia": [
+      "Jóvenes Pordioseros apareció a fines de los noventa dentro de la tradición stoniana que habían abierto Ratones Paranoicos y Viejas Locas: riffs sucios, actitud y letras sobre la noche, el exceso y el barrio.",
+      "«Probame» (2001) y «Vicio» (2004) los pusieron en el circuito, y «Sangre» (2006) los llevó a su momento de mayor convocatoria. El nombre de la banda ya anticipaba el tono de las canciones: nada de solemnidad, todo bastante crudo.",
+      "Después vinieron «Abstinencia», «Pánico» y «Late», manteniendo el mismo camino. «Viva el Rock and Roll» (2019) es el registro en vivo que resume esa historia."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Un nombre que es una declaración",
+        "texto": "Llamarse «Jóvenes Pordioseros» define bastante bien el lugar desde el que decidieron cantar. No hay ninguna intención de parecer otra cosa."
+      },
+      {
+        "titulo": "Tercera generación stoniana",
+        "texto": "Primero vinieron los Ratones, después Viejas Locas, y ellos son la camada siguiente. Es una de las genealogías más claras del rock argentino."
+      },
+      {
+        "titulo": "Discos con una sola palabra",
+        "texto": "«Probame», «Vicio», «Sangre», «Abstinencia», «Pánico», «Late»: casi toda su discografía usa títulos de una sola palabra, directos como las canciones."
+      }
+    ],
+    "galeria": []
   },
   {
     "id": 36,
@@ -6689,6 +7564,31 @@
           "Soldaditos"
         ]
       }
-    ]
+    ],
+    "ficha": {
+      "origen": "Buenos Aires",
+      "actividad": "Desde 1987",
+      "integrantes": "Mariano Martínez, Leonardo de Cecco y Luciano Scaglione. Ciro Pertusi (1987-2007)"
+    },
+    "historia": [
+      "Attaque 77 nació en 1987 como una banda de punk adolescente y terminó siendo una de las más importantes y duraderas del rock argentino. «Dulce Navidad» (1989) los puso en circulación en una escena punk que todavía era muy chica.",
+      "Durante los noventa fueron abriéndose: «Ángeles caídos», «Todo está al revés» y «Amén!» sumaron melodía y letras más sociales sin perder velocidad. «Un día perfecto» (1997) y «Radio Insomnio» (2000) los consolidaron como banda masiva.",
+      "Ciro Pertusi dejó el grupo en 2007 y la banda siguió con Mariano Martínez al frente, editando «Karmagedon», «Estallar» y «Triángulo de Fuerza». Más de treinta años después, siguen en actividad."
+    ],
+    "curiosidades": [
+      {
+        "titulo": "Un disco entero de covers",
+        "texto": "«Otras Canciones» (1998) está hecho de versiones, e incluye «No me arrepiento de este amor» de Gilda. Que una banda punk versionara a una cantante de cumbia fue toda una declaración en su momento."
+      },
+      {
+        "titulo": "Pioneros del punk argentino",
+        "texto": "Cuando empezaron, el punk local era un circuito mínimo de sótanos. Attaque fue de las primeras bandas del género en llegar a estadios y a la radio."
+      },
+      {
+        "titulo": "Treinta años y siguen",
+        "texto": "Pocas bandas argentinas atravesaron tantas épocas sin parar: de la hiperinflación de fines de los ochenta hasta hoy, con cambios de formación pero sin separarse nunca."
+      }
+    ],
+    "galeria": []
   }
 ]
